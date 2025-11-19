@@ -147,7 +147,7 @@ The dataset was generated and engineered entirely in **R**.
 
 
 
-## **📌 Page 1: Operational Overview**
+## **📌 Page 1: Operational Overview** (https://github.com/tionna-jackson/Operational_Analytics_Project/blob/4ca94a4c811a8c7563f694d6a42059480ce3ba6a/Screenshot%202025-11-19%20092652.png)
 
 **Visuals included:**
 
@@ -296,7 +296,6 @@ This page connects operations to financial strategy — **which customers drive 
 
 
 ## 📊 Dashboard Preview
-![Dashboard Preview] (https://github.com/tionna-jackson/Operational_Analytics_Project/blob/4ca94a4c811a8c7563f694d6a42059480ce3ba6a/Screenshot%202025-11-19%20092652.png)
 
 ## 📊 Dashboard Video 
 (https://www.loom.com/share/c968e2470e914570b34efac5d02eabd2)
