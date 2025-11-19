@@ -177,7 +177,7 @@ This page sets the stage: **where costs are rising, where demand is concentrated
 
 
 
-## **📌 Page 2: Warehouse & Carrier Performance**
+## **📌 Page 2: Warehouse & Carrier Performance** (https://github.com/tionna-jackson/Operational_Analytics_Project/blob/967dbcb47dee88525e8f7a6cc59da4f8fa515489/Screenshot%202025-11-19%20092706.png)
 
 **Visuals included:**
 
