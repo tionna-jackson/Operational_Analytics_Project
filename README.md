@@ -201,7 +201,7 @@ This page reveals risk exposure and helps decide **which partners need correctiv
 
 
 
-## **📌 Page 3: Customer & Product Profitability**
+## **📌 Page 3: Customer & Product Profitability** (https://github.com/tionna-jackson/Operational_Analytics_Project/blob/aa101ebb8d26ca673f3163fb77ff1d1daf3b4898/Screenshot%202025-11-19%20092726.png)
 
 **Visuals included:**
 
