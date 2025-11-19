@@ -65,7 +65,7 @@ This project demonstrates the ability to think like an operations strategist —
 
 ## 📊 Dataset Description  
 
-`ops_analytics_dataset.csv` (5,000 rows)  
+`ops_analytics_dataset.csv`  
 
 Contains realistic operational fields:
 
@@ -295,11 +295,17 @@ This page connects operations to financial strategy — **which customers drive 
 
 
 
-# 📌 R Script Summary 
+## 📊 Dashboard Preview
+![Dashboard Preview] 
 
-Include the R scripts in a `/r_scripts/` folder:
+## 📊 Dashboard Video 
+(https://www.loom.com/share/c968e2470e914570b34efac5d02eabd2)
 
 
+
+## 📎 Author
+**Tionna Jackson**  
+💼 LinkedIn: [linkedin.com/in/tionna-jackson](https://linkedin.com/in/tionna-jackson)
 
 
  
